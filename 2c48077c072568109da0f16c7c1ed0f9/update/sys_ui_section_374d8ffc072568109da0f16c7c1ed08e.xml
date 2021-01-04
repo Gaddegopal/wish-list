@@ -4,13 +4,13 @@
             <element>requester</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2021-01-04 15:47:23</sys_created_on>
-            <sys_id>774d8f30076568109da0f16c7c1ed06b</sys_id>
+            <sys_created_on>2021-01-04 15:57:57</sys_created_on>
+            <sys_id>6ebf4bb0076568109da0f16c7c1ed0ae</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_566009_wish_list_wish_item" sys_domain="global" view="Default view">374d8ffc072568109da0f16c7c1ed08e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2021-01-04 15:47:23</sys_updated_on>
+            <sys_updated_on>2021-01-04 15:57:57</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -18,13 +18,13 @@
             <element>item</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2021-01-04 15:47:23</sys_created_on>
-            <sys_id>7f4d8f30076568109da0f16c7c1ed06b</sys_id>
+            <sys_created_on>2021-01-04 15:57:57</sys_created_on>
+            <sys_id>eebf4bb0076568109da0f16c7c1ed0ae</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_566009_wish_list_wish_item" sys_domain="global" view="Default view">374d8ffc072568109da0f16c7c1ed08e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2021-01-04 15:47:23</sys_updated_on>
+            <sys_updated_on>2021-01-04 15:57:57</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -32,13 +32,13 @@
             <element>quantity</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2021-01-04 15:47:23</sys_created_on>
-            <sys_id>ff4d8f30076568109da0f16c7c1ed06b</sys_id>
+            <sys_created_on>2021-01-04 15:57:57</sys_created_on>
+            <sys_id>62bf4bb0076568109da0f16c7c1ed0af</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_566009_wish_list_wish_item" sys_domain="global" view="Default view">374d8ffc072568109da0f16c7c1ed08e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2021-01-04 15:47:23</sys_updated_on>
+            <sys_updated_on>2021-01-04 15:57:57</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -46,13 +46,27 @@
             <element>url</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2021-01-04 15:47:23</sys_created_on>
-            <sys_id>734d8f30076568109da0f16c7c1ed06c</sys_id>
+            <sys_created_on>2021-01-04 15:57:57</sys_created_on>
+            <sys_id>e2bf4bb0076568109da0f16c7c1ed0af</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_566009_wish_list_wish_item" sys_domain="global" view="Default view">374d8ffc072568109da0f16c7c1ed08e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2021-01-04 15:47:23</sys_updated_on>
+            <sys_updated_on>2021-01-04 15:57:57</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>display_name</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-01-04 15:57:57</sys_created_on>
+            <sys_id>66bf4bb0076568109da0f16c7c1ed0af</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_566009_wish_list_wish_item" sys_domain="global" view="Default view">374d8ffc072568109da0f16c7c1ed08e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-01-04 15:57:57</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
